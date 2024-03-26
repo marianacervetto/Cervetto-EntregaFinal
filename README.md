@@ -1,7 +1,7 @@
 BBBodegueando - Read Me
 
 LINK DEL VIDEO PRESENTACIÓN: https://www.loom.com/share/22da53eb0abe477799294659ab9292c8
-LINK A CASOS DE TEST: https://docs.google.com/spreadsheets/d/1yizrIysaobfNnzeD9UMZS01LsLXaaR0u/edit?usp=sharing&ouid=110711013710950820078&rtpof=true&sd=true
+
 
 __USUARIO ADMIN__
 User: admin
@@ -12,6 +12,7 @@ User: francocervetto
 Password: 123holis
 
 
+LINK A CASOS DE TEST: https://docs.google.com/spreadsheets/d/1yizrIysaobfNnzeD9UMZS01LsLXaaR0u/edit?usp=sharing&ouid=110711013710950820078&rtpof=true&sd=true
 
 ¡Bienvenido a BBBodegueando!
 
