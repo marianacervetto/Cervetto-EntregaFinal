@@ -1,5 +1,15 @@
 BBBodegueando - Read Me
 
+__USUARIO ADMIN__
+User: admin
+Password: 1234
+
+__USUARIO PRUEBAS___
+User: francocervetto
+Password: 123holis
+
+
+
 ¡Bienvenido a BBBodegueando!
 
 Este programa tiene la finalidad de que un usuario se registe y pueda acceder a una plataforma de tipo blog colaborativo exclusivo de locales gastronómicos, donde podrá:
