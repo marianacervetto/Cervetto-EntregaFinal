@@ -1,5 +1,7 @@
 BBBodegueando - Read Me
 
+LINK DEL VIDEO PRESENTACIÓN: https://www.loom.com/share/22da53eb0abe477799294659ab9292c8
+
 __USUARIO ADMIN__
 User: admin
 Password: 1234
