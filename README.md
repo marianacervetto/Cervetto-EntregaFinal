@@ -14,6 +14,10 @@ Password: 123holis
 
 LINK A CASOS DE TEST: https://docs.google.com/spreadsheets/d/1yizrIysaobfNnzeD9UMZS01LsLXaaR0u/edit?usp=sharing&ouid=110711013710950820078&rtpof=true&sd=true
 
+
+__________________________________________________________________-
+
+
 ¡Bienvenido a BBBodegueando!
 
 Este programa tiene la finalidad de que un usuario se registre y pueda acceder a una plataforma de tipo blog colaborativo exclusivo de locales gastronómicos, donde podrá:
