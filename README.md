@@ -1,6 +1,7 @@
 BBBodegueando - Read Me
 
 LINK DEL VIDEO PRESENTACIÓN: https://www.loom.com/share/22da53eb0abe477799294659ab9292c8
+LINK A CASOS DE TEST: https://docs.google.com/spreadsheets/d/1yizrIysaobfNnzeD9UMZS01LsLXaaR0u/edit?usp=sharing&ouid=110711013710950820078&rtpof=true&sd=true
 
 __USUARIO ADMIN__
 User: admin
@@ -14,14 +15,14 @@ Password: 123holis
 
 ¡Bienvenido a BBBodegueando!
 
-Este programa tiene la finalidad de que un usuario se registe y pueda acceder a una plataforma de tipo blog colaborativo exclusivo de locales gastronómicos, donde podrá:
+Este programa tiene la finalidad de que un usuario se registre y pueda acceder a una plataforma de tipo blog colaborativo exclusivo de locales gastronómicos, donde podrá:
 
 * Leer, agregar, editar y borrar reseñas de bodegones.
 * Leer, agregar, editar y borrar el directorio de bodegones que incluye dirección, zona y teléfono de cada uno.
 * Leer, agregar, editar y borrar la lista de bodegueadores registrados que incluyen su nombre, apellido y cantidad de reseñas subidas al blog. 
 
 
-Este programa puede ser útil para aquellos que desean planificar una salida y necesitan información y referencias de locales gastronómicos, específicamente de estilo bodegón. 
+Este programa puede ser útil para aquellos que desean planificar una salida y necesitan información y referencias de locales gastronómicos, específicamente de rubro bodegón. 
 
 Si es la primera vez que un usuario va a utilizar BBBodegueando, le recomendamos primero leer la descripción que se encuentra disponible en la sección de "Inicio" y en el "Acerca de mi" para ver si el programa es su interés. Una vez hecho esto, lo invitamos a registrarse haciendo clic en el botón verde de registro. 
 
